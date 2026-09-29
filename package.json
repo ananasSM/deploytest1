@@ -1,9 +1,11 @@
 {
-  "name": "deploy-test",
+  "name": "socket-test-app",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
-    "express": "^4.21.2",
-    "test-package-123456": "999.999.999"
+    "express": "^4.21.2"
   }
 }
