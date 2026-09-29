@@ -1,7 +1,9 @@
 {
-  "name": "test",
+  "name": "deploy-test",
   "version": "1.0.0",
+  "private": true,
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "test-package-123456": "999.999.999"
   }
 }
